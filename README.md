@@ -8,7 +8,7 @@ ser el programa que realiza alguien que quiere aprender un nuevo lenguaje de pro
 ## Compilación y ejecución del programa
 
 Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
-```console
+```
 javac HolaMundo.java
 ```
 

@@ -1,5 +1,5 @@
 /**
-* Muestra por pantalla la frase "¡Hola Mundo!" clásico 2
+* Muestra por pantalla la frase "¡Hola Mundo!" clásico 2_1
 */
 public class HolaMundo {
    public static void main(String[] args) {
